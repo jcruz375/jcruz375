@@ -5,7 +5,8 @@
   In my free time i like to play soccer, listen some musics and program some things.
   
   Would you like to know me?
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-cruz-252596191/)](https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-cruz-252596191/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-cruz-252596191/)]
+  (https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-cruz-252596191/)
 
 <!--
 **jcruz375/jcruz375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
