@@ -4,10 +4,12 @@ My name is João Vitor Oliveira Cruz from Brazil, I've been study about programm
 
 I currently work at Stone SA. as a apprentice in the command center.
 
-In my free time i like to play soccer (for my team "United F.S."), listen some musics and program some things.
+In my free time i like to play soccer (for my team "United F.S."), listen some musics and and train programming.
   
 Would you like to know me?
   
+- 🔭 I’m currently working on a restaurant app.(Freelance)
+- 🌱 I’m currently learning NodeJS and React.
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-cruz-252596191/)](https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-cruz-252596191/)
 
@@ -16,8 +18,7 @@ Would you like to know me?
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
