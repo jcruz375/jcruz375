@@ -2,7 +2,7 @@
 
 My name is João Vitor Oliveira Cruz from Brazil, I've been study about programming and technology for a year or so... My focus currently is on the JavaScript universe and yours    most usefull technologies ( node, react react-native, typescript, etc. )
 
-I currently work at Stone SA. as a apprentice in the command center.
+I am currently looking for a job.
 
 In my free time i like to play soccer (for my team "United F.S."), listen some musics and and train programming.
   
