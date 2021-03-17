@@ -6,7 +6,6 @@ In my free time i like to play soccer (for my team "United F.S."), listen some m
   
 Would you like to know me?
   
-- 🔭 I’m currently working on a restaurant app.(Freelance)
 - 🌱 I’m currently learning NodeJS and React.
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-cruz-252596191/)](https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-cruz-252596191/)
