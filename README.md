@@ -1,13 +1,16 @@
 ### Hi there 👋
 
-My name is João Vitor Oliveira Cruz from Brazil, I've been study about programming and technology for a year or so... My focus currently is on the JavaScript universe and yours    most usefull technologies ( node, react react-native, typescript, etc. )
+FullStack developer com aproximadamente 2 anos de experiência no desenvolvimento de aplicações Web.
+Experiência em desenvolvimento de softwares com tecnologias como React, Next, Flutter e Node;
+Habilidades em realizar a criação de telas responsivas e integração a APIs;
+Conhecimento de Context API, redux, React hooks, Design Pattern, TypeScript e CSS, styled components, Sass.
 
-In my free time i like to play soccer (for my team "United F.S."), listen some musics and and train programming.
-  
-Would you like to know me?
-  
-- 🌱 I’m currently learning NodeJS and React.
-  
+Dentre as minhas competências, destaco: 
+- Criação de telas responsivas sempre visando a integração do software ao mobile;
+- Prototipação de interfaces (design UI + Figma)
+- Integração com APIs
+
+contato: joaocruz375@gmail.comFullStack
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-cruz-252596191/)](https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-cruz-252596191/)
 
 <!--
