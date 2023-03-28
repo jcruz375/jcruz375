@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Olá, meu nome é João Cruz e sou um desenvolvedor frontend com 1 ano e meio de experiência trabalhando em projetos web e mobile. Meu foco principal tem sido em tecnologias baseadas em JavaScript, especialmente em React, Next.js e TypeScript.
+Meu nome é João Cruz e sou um desenvolvedor frontend com 1 ano e meio de experiência trabalhando em projetos web e mobile. Meu foco principal tem sido em tecnologias baseadas em JavaScript, especialmente em React, Next.js e TypeScript.
 
 Tenho experiência em trabalhar com gerenciamento de estado usando Context API e Redux, bem como o uso de React Hooks e BloC Pattern para criar componentes reutilizáveis e de alto desempenho. Além disso, sou especialista em trabalhar com CSS e pré-processadores como Sass para criar estilos responsivos e escaláveis.
 
