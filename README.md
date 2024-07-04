@@ -1,14 +1,31 @@
 ### Hi there 👋
 
-Meu nome é João Cruz e sou um desenvolvedor Front-End com proficiência em backend. Tenho 1 ano e meio de experiência trabalhando em projetos web e mobile, com foco principal em tecnologias baseadas em JavaScript, especialmente em React, Next.js e TypeScript.
+Meu nome é João Cruz e sou um desenvolvedor Front-End com proficiência em backend. Tenho aproximadamente 3 anos de experiência trabalhando em projetos web e mobile, com foco principal em tecnologias baseadas em JavaScript, especialmente em React, Next.js e TypeScript.
 
-Além disso, possuo conhecimentos em projetos pessoais e de estudo usando NodeJS e bancos de dados relacionais como MySQL e não relacionais como MongoDB. Tenho habilidades em construir APIs REST, bem como em lidar com questões de segurança e autenticação de usuários.
+Além disso, possuo conhecimentos em projetos pessoais e de estudo usando NodeJS, Java e .NET e bancos de dados relacionais como MySQL e não relacionais como MongoDB. Tenho habilidades em construir APIs REST, bem como em lidar com questões de segurança e autenticação de usuários.
 
 No frontend, tenho experiência em trabalhar com gerenciamento de estado usando Context API e Redux, bem como o uso de React Hooks e BloC Pattern para criar componentes reutilizáveis e de alto desempenho. Também tenho habilidades em estilização com CSS e pré-processadores como Sass para criar estilos responsivos e escaláveis.
 
-Recentemente, tenho me aventurado no mundo do desenvolvimento mobile, tendo aproximadamente 1 ano de experiência com Flutter e Dart para criar aplicativos nativos para iOS e Android. Também tenho experiência com Styled Components e outras ferramentas de estilização para criar uma experiência de usuário consistente em todas as plataformas.
+Também possuo experiência em desenvolvimento mobile, tendo aproximadamente 1 ano de experiência com Flutter e Dart para criar aplicativos nativos para iOS e Android.
 
-Estou sempre buscando aprender e me atualizar sobre as últimas tecnologias e tendências do mercado, e estou animado para trabalhar em projetos desafiadores e impactantes. Se você está procurando um desenvolvedor fullstack com experiência em React, Next.js, TypeScript, Redux, BloC Pattern, CSS, Flutter, NodeJS e bancos de dados relacionais e não relacionais, por favor, entre em contato comigo!
+SKILLS:
+
+Javascript
+React
+Next.js
+Node
+Flutter
+CSS e SaSS
+Design Patterns (BLoC pattern)
+Bancos relacionais (MySQL, PostgreSQL)
+GraphQL
+Design UI
+VueJS
+Tailwind CSS (Projetos Pessoais)
+.NET (Interesse Ativo)
+
+
+contato: joaocruz375@gmail.comMeu
 
 
 
