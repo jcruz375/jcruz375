@@ -1,48 +1,23 @@
-### Hi there 👋
+### Hi there 👋, eu sou o João Vitor Oliveira Cruz
 
-Meu nome é João Cruz e sou um desenvolvedor Front-End com proficiência em backend. Tenho aproximadamente 3 anos de experiência trabalhando em projetos web e mobile, com foco principal em tecnologias baseadas em JavaScript, especialmente em React, Next.js e TypeScript.
+**Desenvolvedor Full-Stack**
 
-Além disso, possuo conhecimentos em projetos pessoais e de estudo usando NodeJS, Java e .NET e bancos de dados relacionais como MySQL e não relacionais como MongoDB. Tenho habilidades em construir APIs REST, bem como em lidar com questões de segurança e autenticação de usuários.
+Tenho mais de 5 anos de experiência atuando em projetos web em produção. Minha especialidade é o Front-End, aliado ao desenvolvimento e operação de backends. Meu foco principal é em performance, escalabilidade, qualidade de código e manutenção de sistemas em produção.
 
-No frontend, tenho experiência em trabalhar com gerenciamento de estado usando Context API e Redux, bem como o uso de React Hooks e BloC Pattern para criar componentes reutilizáveis e de alto desempenho. Também tenho habilidades em estilização com CSS e pré-processadores como Sass para criar estilos responsivos e escaláveis.
+### 💻 Tech Stack 
 
-Também possuo experiência em desenvolvimento mobile, tendo aproximadamente 1 ano de experiência com Flutter e Dart para criar aplicativos nativos para iOS e Android.
+*   **Front-End:** Vue 3, React, TypeScript, Quasar, Next.js
+*   **Back-End & Infra:** Laravel, Node.js, PostgreSQL, MySQL, MongoDB, Redis, Docker, CI/CD, Git
+*   **Testes:** Jest, Cypress, PHP unit
+*   **Mobile:** Flutter, React Native
 
-SKILLS:
+### 🚀 Destaques e Experiência
 
-Javascript
-React
-Next.js
-Node
-Flutter
-CSS e SaSS
-Design Patterns (BLoC pattern)
-Bancos relacionais (MySQL, PostgreSQL)
-GraphQL
-Design UI
-VueJS
-Tailwind CSS (Projetos Pessoais)
-.NET (Interesse Ativo)
+*   **Atual:** Desenvolvedor Front-End na ENC Interativa (desde 01/2024), focado em arquitetura e implementação de aplicações complexas com Vue 3 e TypeScript. Participei da entrega de mais de 70 plataformas interativas para grandes marcas (Unilever, Mondelez, BMG).
+*   **Projeto em Produção:** Desenvolvedor e operador do [ProBet Manager](https://app.probetmanager.com.br), estruturado com Laravel, PostgreSQL, Redis e Docker, incluindo filas assíncronas e CI/CD no Render.
+*   **Experiência Anterior:** Desenvolvedor Full-Stack na NeoPDV (10/2020 - 07/2023), criando sistemas e APIs com React, Next.js e Node.js.
 
+### 📫 Como me encontrar
 
-contato: joaocruz375@gmail.comMeu
-
-
-
-
-contato: joaocruz375@gmail.com
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-cruz-252596191/)](https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-cruz-252596191/)
-
-<!--
-**jcruz375/jcruz375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-cruz-252596191/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaocruz375@gmail.com)
